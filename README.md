@@ -1,0 +1,1 @@
+Precisa de uma versão do python entre 3.8 e 3.11
